@@ -44,8 +44,8 @@ The verification environment is modular and self-checking.
 ---
 
 ## 📂 Repository Structure
-├── asyn_fifo.sv # RTL design /
-├── fifo_tb.sv # Testbench top /
+├── asyn_fifo.sv # RTL design \
+├── fifo_tb.sv # Testbench top \
 ├── wr_agent/ # Write generator, BFM, monitor
 ├── rd_agent/ # Read generator, BFM, monitor
 ├── fifo_sbd.sv # Scoreboard
